@@ -168,7 +168,3 @@ JWT_SECRET=your-secret-key
 JWT_REFRESH_SECRET=your-refresh-secret
 FRONTEND_URL=http://localhost:5173
 ```
-
-## License
-
-MIT
